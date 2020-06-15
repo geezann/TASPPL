@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Pengujian Insert Pasien dan Berhasil With EXCEL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e26130e-58f1-485b-b889-237058e883c0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d24d5d5c-b9bd-4ef8-a856-3042ad088bf2</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29c7253c-a521-4f8d-ad62-abdc6050b04e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e947594-8ed2-476e-a605-2b26e322da4d</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7fbd7a8d-729d-485e-bbb6-250be6d2c42d</id>
+      <masked>false</masked>
+      <name>no_rekam</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e4267568-1a48-45a2-b529-276874d8fa67</id>
+      <masked>false</masked>
+      <name>no_telp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>675d6dfc-412d-473e-aabb-0862cee6261f</id>
+      <masked>false</masked>
+      <name>tgl_lahir</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d4f0002-7949-4579-9392-d7873761d6ae</id>
+      <masked>false</masked>
+      <name>alamat</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Tes Data Pasien</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>63caf224-d13d-46a5-99c7-0d5a44c29655</testSuiteGuid>
+   <testCaseLink>
+      <guid>addbd17a-c529-4ca2-8548-44a3b52b04ec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TAS/Pengujian Insert Pasien dan Berhasil With EXCEL</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>82d7805c-1287-46fc-8643-7617c8d6fb0f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data Pasien</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>d24d5d5c-b9bd-4ef8-a856-3042ad088bf2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>29c7253c-a521-4f8d-ad62-abdc6050b04e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Name</value>
+         <variableId>7e947594-8ed2-476e-a605-2b26e322da4d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>No_rekam</value>
+         <variableId>7fbd7a8d-729d-485e-bbb6-250be6d2c42d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>No_telp</value>
+         <variableId>e4267568-1a48-45a2-b529-276874d8fa67</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Tgl_lahir</value>
+         <variableId>675d6dfc-412d-473e-aabb-0862cee6261f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>82d7805c-1287-46fc-8643-7617c8d6fb0f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Alamat</value>
+         <variableId>1d4f0002-7949-4579-9392-d7873761d6ae</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
